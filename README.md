@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Demonstrate viewing the DOM through Chrome DevTools.
+- Demonstrate viewing the DOM through Chrome DevTools
 - Select an element with Chrome DevTools
 - Delete an element with Chrome DevTools
 - Demonstrate that the source is not changed when the DOM is
